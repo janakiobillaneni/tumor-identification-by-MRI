@@ -1,1 +1,1 @@
-# tumor-identification-by-MRI
+# tumor-identification-from-MRI
