@@ -1,5 +1,2 @@
 # tumor-identification-from-MRI
-Teammates for the project: Janaki Obillaneni, Naga Badri Maylavarapu,Darshan Lakhankiya
-
-
-
+We are Team Janaki Obillaneni,Naga Badri Maylavarapu,Darshan Lakhankiya, worked on this project as a part of our course work, Fundamentals of medical Imaging.
